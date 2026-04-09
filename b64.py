@@ -24,7 +24,6 @@ def code_tool():
     elif choice == "2":
         encoded_string = input("\nPaste base64 to decrypt: ").strip()
         try:
-            # Декодируем
             decoded_bytes = base64.b64decode(encoded_string)
             decoded_code = decoded_bytes.decode('utf-8')
 
