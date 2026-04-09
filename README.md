@@ -9,6 +9,7 @@ After encryption, you receive a ready-made string and code. You can paste and ru
 # Usage
 
 [1] To encrypt: print("Hello, world") = cHJpbnQoIkhlbGxvLCB3b3JsZCIpCg==
+
 [2] Decrypt: cHJpbnQoIkhlbGxvLCB3b3JsZCIpCg== = print("Hello, world")
 
 # Security
