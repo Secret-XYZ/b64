@@ -6,7 +6,7 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![Encoding](https://img.shields.io/badge/Encoding-Base64-success)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)   ![Encoding](https://img.shields.io/badge/Encoding-Base64-success)
 
 
 
