@@ -2,7 +2,7 @@
 
 # base64
 
-Encrypt and decrypt text and code in just a couple of clicks
+Encrypt and decrypt text and code in just a couple of clicks.
 
 
 
